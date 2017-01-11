@@ -1,0 +1,391 @@
+body{
+  font-size: 16px;
+}
+
+.fl{
+  float: left;
+}
+
+.alpha-banner a{
+  color: #02b5d9;
+}
+
+.active-text{
+  color: #02b5d9;
+}
+
+.circle-icon.active-color{
+  border: 3px solid #02b5d9;
+}
+
+.circle-icon{
+  text-align: center;
+  font-size: 29px;
+  border: 3px solid black;
+  border-radius: 100px;
+  width: 30px;
+  height: 30px;
+  line-height: 20px;
+  padding: 0px;
+  display: block;
+  margin: 15px auto;
+}
+
+.form-wrapper{
+  padding-bottom: 15px;
+}
+
+.spaced-item{
+  padding-right: 10px;
+}
+
+ul.inline-style li{
+  display: inline-block;
+}
+
+ul.no-style{
+  margin: 0px;
+  list-style: none;
+}
+
+p{
+
+}
+
+a.active-link{
+  color: #02b5d9; 
+}
+
+h4 small{
+  text-transform: uppercase;
+  color: #323A44;
+  font-size: 12px;
+}
+
+.button.secondary{
+  border-color: #02b5d9;
+  color: #02b5d9;
+  font-weight: bold;
+}
+
+.apply-back{
+  padding-top: 15vh;
+  padding-bottom: 15vh;
+}
+
+.column-container h4{
+  font-size: 19px;
+}
+
+.white-bg h4{
+  padding: 15px;
+}
+
+.white-bg{
+  background: white;
+}
+
+.image-wrapper img{
+  width: 100%;
+}
+
+.blue-back{
+  min-height: 90vh;
+  padding-top: 10vh;
+  padding-bottom: 10vh;
+  background: #E0F3F8;
+}
+
+.white-back{
+  min-height: 90vh;
+  padding-top: 10vh;
+  padding-bottom: 10vh;
+}
+
+.tan-background .text-content{
+  padding-bottom: 5vh;
+}
+
+.soft-back h2{
+  padding-bottom: 5vh;
+}
+.soft-back{
+  background: #F3F0EB;
+  min-height: 80vh;
+  padding-top: 10vh;
+  padding-bottom: 10vh;
+}
+
+div.header{
+  padding-top: 1rem;
+}
+
+.small-bar hr{
+  border-width: 3px;
+  border-color: white;
+}
+
+.hero-padding h1{
+  font-size: 24px;
+  color: white;
+}
+
+.small-bar{
+  max-width: 20px;
+  display: block;
+}
+
+h3.small-head-text{
+  margin-left: 1em;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  font-size: 15px;
+  color: black;
+}
+
+.cta-container .button:hover{
+  background: white;
+  color: #fe7b64;
+}
+
+.cta-container .button{
+  background: none;
+  border: 2px solid white;
+  min-width: 300px;
+}
+.cta-container{
+  margin-top: 2rem;
+}
+
+.us-flag-emoji{
+  margin-right: .2em;
+}
+
+.header-image-background{
+  background-image: url('../img/vk284nkoavu-samuel-zeller.jpg');
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center center;
+  min-height: 100vh;
+}
+
+.alpha-banner{
+  font-size: 11px;
+  height: 36px;
+  line-height: 36px;
+  background: #F1F1F1;
+}
+
+ul.no-bullets{
+  list-style: none;
+}
+
+.page .top-nav-links{
+  border: 1px solid black;
+}
+
+.page .top-nav-links li{
+  border-left: 1px solid black;
+}
+
+.page .top-nav-links li:first-child{
+  border-left: none;
+}
+
+.top-nav-links li a:hover{
+  background: white;
+  color: #fe7b64;
+}
+
+.page .top-nav-links li a{
+  color: black;
+}
+
+.top-nav-links{
+  border: 1px solid white;
+  list-style: none;
+  float: right;
+}
+
+.top-nav-links li:first-child a{
+  border: none;
+}
+
+.top-nav-links li{
+  display: block;
+  border-left: 1px solid white;
+  float: left;
+}
+
+.top-nav-links li a:hover{
+  background: white;
+  color: #fe7b64;
+}
+
+.top-nav-links li a{
+  transition: background-color 0.25s ease-out, color 0.25s ease-out;
+  display: block;
+  width: 155px;
+  padding: 8px;
+  height: 60px;
+}
+
+.top-nav-links li a{
+  font-size: 15px;
+  color: white;
+}
+
+.italics{
+  font-style: italic;
+}
+
+.hero-buttons .button-container a{
+  color: white;
+}
+
+.hero-buttons .button-container:hover{
+  background-color: rgba(0,0,0,0.3);
+}
+
+.thumbnail.thumbnail{
+  border: none;
+}
+
+@media screen and (min-width: 40em){
+  .text-content h4{
+    font-size: 1.3em;
+    font-weight: 700;
+  }
+}
+
+.callout{
+  padding-top: 6vh;
+}
+
+.text-content a{
+  font-weight: 700;
+  color: #666;
+  text-transform: uppercase;
+}
+
+.hero-buttons .button-container{
+  background-color: rgba(0,0,0,0.5);
+  padding: 10px 10px 5px;
+  border-right: 1px solid rgba(0,0,0,0.8);
+}
+
+.hard-background{
+  background: #a3a5a1;
+}
+
+.soft-background{
+  background: #f1f1f1;
+}
+
+.no-bottom-margin{
+  margin-bottom: 0px;
+}
+
+.background-hero-image h2{
+  color: white;
+  font-weight: 300;
+}
+
+.background-hero-image{
+  background-size: cover;
+}
+
+.padding-push-bottom{
+  padding-bottom: 80px;
+}
+
+@media screen and (min-width: 40em) {
+  .padding-push-bottom{
+    min-height: 400px;
+  }
+}
+
+.callout{
+  background: #e5e5e5;
+  border: none;
+}
+
+h1.condensed-bold,
+h2.condensed-bold,
+h3.condensed-bold,
+h4.condensed-bold,
+h5.condensed-bold{
+  margin-bottom: 3vh;
+  text-transform: uppercase;
+  font-family: "HelveticaNeue-CondensedBold", "Helvetica Neue";
+}
+
+.max-width-300{
+  max-width: 300px;
+}
+
+.image-wrapper-circle{
+  overflow: hidden;
+  border-radius: 300px;
+}
+
+.vertical-padding{
+  padding-top: 5vh;
+  padding-bottom: 5vh;
+}
+
+.image-icon{
+  min-height: 130px;
+  padding-top: 2vh;
+  padding-bottom: 2vh;
+  display: block;
+}
+
+.vertical-slide{
+  min-height: 50vh;
+}
+
+.hero{
+  position: relative;
+}
+
+.hero-buttons{
+  position: absolute;
+  bottom: 0px;
+}
+
+.f2{
+  font-size: 1.25rem;
+}
+
+.f4{
+  font-size: 4rem;
+}
+.f6{
+  font-size: 6rem;
+}
+.v-mid{
+  vertical-align: middle;
+}
+.dib {
+    display: inline-block;
+}
+.mt4{
+  margin-top: 4rem;
+}
+.mt6{
+  margin-top: 6rem;
+}
+@media screen and (min-width: 40em) {
+  .hero{
+    min-height: 50vh;
+  }
+
+  .hero-padding{
+    padding-top: 10%;
+  }
+  .large-not-centered, .large-not-centered:last-child:not(:first-child){
+    float: right;
+    clear: none;
+  }
+}
