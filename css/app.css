@@ -377,6 +377,10 @@ h5.condensed-bold{
 .mt6{
   margin-top: 6rem;
 }
+a[href="#"]{
+  pointer-events: none;
+  cursor: default;
+}
 @media screen and (min-width: 40em) {
   .hero{
     min-height: 50vh;
