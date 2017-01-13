@@ -1,5 +1,25 @@
+.investment-category{
+  height: 70vh;
+  padding-top: 15vh;
+  padding-bottom: 15vh;
+}
+
 body{
   font-size: 16px;
+}
+
+.list-of-categories{
+  margin-top: 5vh;
+}
+
+.list-of-categories a{
+  font-weight: 800;
+  color: #02b5d9;
+  font-size: 18px;
+}
+
+.list-companies-block h5{
+  height: 100px;
 }
 
 .fl{
@@ -149,6 +169,11 @@ h3.small-head-text{
   color: #fe7b64;
 }
 
+.page .hero-padding h2{
+  color: #4a4a4a;
+  font-weight: 800;
+}
+
 .cta-container .button{
   background: none;
   border: 2px solid white;
@@ -160,6 +185,14 @@ h3.small-head-text{
 
 .us-flag-emoji{
   margin-right: .2em;
+}
+
+.header-image-background-flower{
+  background-image: url('../img/flower.jpg');
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center center;
+  min-height: 100vh;
 }
 
 .header-image-background{
