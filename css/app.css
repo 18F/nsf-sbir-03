@@ -89,11 +89,15 @@ ul.no-style{
 .hero {
   padding-bottom: 60px;
 }
+.hero h2 {
+  padding-left: 60px;
+}
 .hero p{
   font-size: 36px;
   line-height: 40px;
   margin-bottom: 30px;
   max-width: 800px;
+  padding-left: 60px;
 }
 .hero article {
   padding-top: 30px;
@@ -108,9 +112,9 @@ ul.no-style{
   max-width: 480px;
 }
 .hero article ul, .hero article ul li {
-  margin-top: 0;
-  margin-bottom: 0;
+  margin: 0 0 0 30px;
   padding: 0;
+  list-style-type: circle;
 }
 a.active-link{
   color: #02b5d9;
